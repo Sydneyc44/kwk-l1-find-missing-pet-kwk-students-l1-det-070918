@@ -1,2 +1,6 @@
-name = "Vanessa"
+name = "Sydney"
 puts name
+name = "Chapman"
+put name 
+age = "15"
+put age
