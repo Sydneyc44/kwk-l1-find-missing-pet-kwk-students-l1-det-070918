@@ -1,2 +1,2 @@
-name = "Vanessa
+name = "Vanessa"
 puts name
